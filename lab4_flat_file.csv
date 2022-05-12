@@ -1,0 +1,11 @@
+id,height_in,gender,hair_color,eye_color,age
+1,67,male,brown,brown,25
+2,64,female,brown,green,23
+3,74,male,blond,blue,27
+4,73,male,brown,brown,35
+5,60,female,red,green,40
+6,61,female,brown,green,45
+7,73,female,blond,blue,41
+8,70,female,brown,blue,50
+9,56,female,blond,brown,60
+10,57,male,blond,brown,18
